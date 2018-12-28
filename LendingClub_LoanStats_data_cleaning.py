@@ -13,7 +13,7 @@ plt.rcParams['figure.figsize'] = (12,8)
 
 DATA_PATH = 'C:\\ML_Data\\_Lending Club\\'
 
-# Lending Club data is at:
+# Lending Club data is at: 
 # https://www.lendingclub.com/info/download-data.action
 #
 # 2007-2011_LoanStats.csv
